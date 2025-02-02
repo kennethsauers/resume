@@ -9,9 +9,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+Software Engineer specializing in machine learning, software architecture, and RF systems, with experience reverse engineering and developing mission-critical applications.
 
 ## Experience
 
@@ -19,28 +17,19 @@ adaptive variants.
 hand -->
 ### <span>Software Engineer, System Innovation Group</span> <span>Dec 2020 -- Current</span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+- Designed a machine learning classifier that identified base stations with 98% accuracy, enhancing network security.
+- Developed an AM transmission system utilizing SDR, enabling controlled communications up to 200 miles via a web portal.
+- Led the integration of multiple applications into a single framework, improving deployment efficiency and enabling rapid prototyping
+- Supported various software applications across different SDLC stages, improving deployment efficiency and maintaining uptime
 
-  - Designed a Machine Learning classifier to detect rogue base stations using RF data
-  - Designed an AM system utilizing a SDR to transmit up to 200 mile controlled by a web portal
-  - Championed decision to integrate various application into a single framework, streamlining developer workflow
-  - Supported various software application throughout different Software Development Life cycles
-  - Created a ETL process that unified over 50 APIs into a single repository
 
 ### <span>Software Engineer, DEPARTMENT OF DEFENSE - NSIN</span> <span>May 2020 - Sep. 2020</span>
 
-Global movement of free coding clubs for young people.
-
-  - Met one-on-one with active-duty airmen and built a product to fix their real-world problems
+  - Met one-on-one with active-duty airmen and built a product simulate maintenance on the KC-135 aircraft
   - Designed and created a prototype VR application to train aircraft maintainers
-  - Received Cloud point data scans of the KC-135 to simulate in VR
+  - Processed and optimized KC-135 cloud point data for VR simulations, allowing accurate simulation of the aircraft
 
 ### <span>Research Assistant, CENTER FOR COMPUTER VISION RESEARCH LAB UCF</span> <span>Sep. 2017 - Mar. 2020</span>
-
-Global movement of free coding clubs for young people.
 
   - Wrote a synthetic data generation tool for machine learning that created a 13% gain in testing accuracy
   - Assisted with research into GANs and their applications with Computer Vision
