@@ -1,12 +1,3 @@
-# resume.md
-
-![Resume](resume.png)
-
-Write your resume in
-[Markdown](https://raw.githubusercontent.com/mikepqr/resume.md/main/resume.md),
-style it with [CSS](resume.css), output to [HTML](resume.html) and
-[PDF](resume.pdf).
-
 ## Prerequisites
 
  - Python ≥ 3.6
