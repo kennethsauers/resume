@@ -4,12 +4,11 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - <kennethsauers@gmail.com>
-- (912) 555-4321
 - Jacksonville FL
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Software Engineer specializing in machine learning, software architecture, and RF systems, with experience reverse engineering and developing mission-critical applications.
+Software Engineer specializing in Full-Stack web applications, software architecture, and RF systems, with experience reverse engineering and developing mission-critical applications.
 
 ## Experience
 
@@ -17,30 +16,30 @@ Software Engineer specializing in machine learning, software architecture, and R
 hand -->
 ### <span>Software Engineer, System Innovation Group</span> <span>Dec 2020 -- Current</span>
 
-- Designed a machine learning classifier that identified base stations with 98% accuracy, enhancing network security.
-- Developed an AM transmission system utilizing SDR, enabling controlled communications up to 200 miles via a web portal.
-- Led the integration of multiple applications into a single framework, improving deployment efficiency and enabling rapid prototyping
-- Supported various software applications across different SDLC stages, improving deployment efficiency and maintaining uptime
+- Developed a high-accuracy machine learning classifier (98%) to detect base stations, strengthening network security.
+- Engineered an AM transmission system using SDR, enabling controlled web-based communication over 200 miles.
+- Spearheaded the consolidation of multiple applications into a unified framework, streamlining deployment and accelerating prototyping.
+- Provided end-to-end support for software applications across the SDLC, optimizing deployment processes and ensuring high availability.
 
 
-### <span>Software Engineer, DEPARTMENT OF DEFENSE - NSIN</span> <span>May 2020 - Sep. 2020</span>
+### <span>Software Engineer, Department of Defense - NSIN</span> <span>May 2020 - Sep. 2020</span>
 
-  - Met one-on-one with active-duty airmen and built a product simulate maintenance on the KC-135 aircraft
-  - Designed and created a prototype VR application to train aircraft maintainers
-  - Processed and optimized KC-135 cloud point data for VR simulations, allowing accurate simulation of the aircraft
+- Collaborated one-on-one with active-duty airmen to develop a simulation tool for KC-135 aircraft maintenance, enhancing training realism.
+- Designed and prototyped a VR application to train aircraft maintainers, improving hands-on learning experiences.
+- Processed and optimized KC-135 point cloud data for VR simulations, ensuring accurate and high-fidelity aircraft modeling.
 
-### <span>Research Assistant, CENTER FOR COMPUTER VISION RESEARCH LAB UCF</span> <span>Sep. 2017 - Mar. 2020</span>
+### <span>Research Assistant, Center for computer vision research lab UCF</span> <span>Sep. 2017 - Mar. 2020</span>
 
-  - Wrote a synthetic data generation tool for machine learning that created a 13% gain in testing accuracy
-  - Assisted with research into GANs and their applications with Computer Vision
+- Developed a synthetic data generation tool for machine learning, increasing testing accuracy by 13%.
+- Contributed to research on Generative Adversarial Networks (GANs) and their applications in Computer Vision, enhancing data augmentation and model performance.
 
 ## Education
 
-### <span>Georgia Institute of Technology, MS of Computer Science</span> <span>In anticipation 2025</span>
-  - Specialization, Robotics and Computer Perception
+### <span>Georgia Institute of Technology, Master of Science in Computer Science </span> <span>2025</span>
+  - Specialization in Computational Perception and Robotics
 
-### <span>University of Central Florida, BS of Computer Engineering</span> <span>2021</span>
-  - Minor, Intelligent Robotic Systems
+### <span>University of Central Florida, Bachelor of Science in Computer Engineering</span> <span>2021</span>
+  - Minor in Intelligent Robotic Systems
   - Robotics Team, Computer Vision Engineer
   - Competitive Programming Team, Programmer
 ## Projects
@@ -62,7 +61,7 @@ A full-stack website that enables first responder and civilian communicate
 ## Skills
 
  - **Certifications** Coursera: Deep Learning Specialization, CIW: JavaScript Specialist
- - **Languages** C#, Python, JavaScript, C++
+ - **Languages** C#, Python, JavaScript, Java, C++
  - **Frameworks** .Net, ASP.NET, Entity Framework, React, Blazor, FastAPI
- - **Technology** Docker, DevOps, CI/CD, Saas, Agile, Microservices
+ - **Technology** Docker, DevOps, CI/CD, SQL
  - **Strengths** Web Applications, Hardware Integration, Project Management, Machine Learning, Computer Vision
