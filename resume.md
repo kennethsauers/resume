@@ -18,7 +18,7 @@ hand -->
 - Developed a high-accuracy machine learning classifier (98%) to detect base stations, strengthening network security.
 - Spearheaded the consolidation of multiple applications into a unified framework, streamlining deployment and accelerating prototyping.
 - Authored and released comprehensive technical documentation including Interface Control Documents (ICDs), design specifications, and tooling guides for internal teams and external clients to ensure seamless integration and support.
-- Collaborated with internal stakeholders to deploy AI solutions tailored to real-world operational and engineering problems.
+- Collaborated with stakeholders to deploy rapidly prototyped solutions tailored to real-world operational and engineering problems.
 
 
 ### <span>Software Engineer, Department of Defense - NSIN</span> <span>May 2020 - Sep. 2020</span>
@@ -60,7 +60,7 @@ A computer vision app that detects skin disease via a convolutional neural netwo
 ## Skills
 - **Machine Learning & AI**: CNNs, RNNs, LSTMs, Reinforcement Learning, GANs, NLP
  - **Certifications** Coursera: Deep Learning Specialization, CIW: JavaScript Specialist
- - **Languages** Python, C#, TypeScript, JavaScript, Java, C++
- - **Frameworks** .Net, ASP.NET, Entity Framework, React, Scikit-learn, TensorFlow, PyTorch, OpenCV
+ - **Languages** Python, C#, TypeScript, JavaScript, Java, C++, SQL
+ - **Frameworks** .Net, ASP.NET, Entity Framework, React, TensorFlow, PyTorch, OpenCV
  - **Technology** Docker, DevOps, CI/CD, SQL, GnuRadio
 
