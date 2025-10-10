@@ -4,7 +4,9 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - <kennethsauers@gmail.com>
-- Melbourne FL
+- Jacksonville FL
+- github.com/kennethsauers
+- linkedin.com/in/kenneth-sauers/
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -14,53 +16,45 @@ is intended to be used for a short summary. -->
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 ### <span>Software Engineer, System Innovation Group</span> <span>Dec 2020 -- Current</span>
+- Designed and implemented React + .NET web applications with RESTful APIs, improving responsiveness and maintainability across systems.
+- Spearheaded the migration of multiple legacy tools into a unified modular framework, reducing maintenance overhead and accelerating prototyping by 30%.
+- Authored Interface Control Documents (ICDs), design specifications, and developer tooling guides used by cross-functional teams and external clients.
+- Collaborated in Agile sprints with stakeholders to design and deploy proof-of-concept solutions for real-world engineering challenges.
+- Improved API reliability and deployment pipelines using CI/CD automation and containerization (Docker + GitHub Actions).
 
-- Developed a high-accuracy machine learning classifier (98%) to detect base stations, strengthening network security.
-- Spearheaded the consolidation of multiple applications into a unified framework, streamlining deployment and accelerating prototyping.
-- Authored and released comprehensive technical documentation including Interface Control Documents (ICDs), design specifications, and tooling guides for internal teams and external clients to ensure seamless integration and support.
-- Collaborated with stakeholders to deploy rapidly prototyped solutions tailored to real-world operational and engineering problems.
-
-
-### <span>Software Engineer, Department of Defense - NSIN</span> <span>May 2020 - Sep. 2020</span>
-
-- Collaborated one-on-one with active-duty airmen to develop a simulation tool for KC-135 aircraft maintenance, enhancing training realism.
-- Worked with domain experts in engineering processes to translate requirements into technical prototypes.
-- Designed and prototyped a VR application to train aircraft maintainers, improving hands-on learning experiences.
-
-### <span>Research Assistant, Center for computer vision research lab UCF</span> <span>Sep. 2017 - Mar. 2020</span>
-
-- Developed a synthetic data generation tool for machine learning, increasing testing accuracy by 13%.
-- Contributed to research on Generative Adversarial Networks (GANs) and their applications in Computer Vision, enhancing data augmentation and model performance.
-- Researched and applied deep learning architectures, including CNNs and LSTMs, to improve visual recognition tasks.
+### <span>Software Engineer Intern, Department of Defense - NSIN</span> <span>May 2020 - Sep. 2020</span>
+- Built a 3D simulation tool for KC-135 aircraft maintenance training, improving realism and reducing training time for airmen.
+- Designed and implemented a VR application prototype that enhanced hands-on maintenance training using Unity and custom sensor integrations.
+- Partnered directly with domain experts and airmen to translate real-world requirements into scalable, maintainable software solutions.
+  
+### <span>Research Assistant, Center for Computer Vision Research UCF</span> <span>Sep. 2017 - Mar. 2020</span>
+- Developed a synthetic data generation framework to augment training datasets, improving ML testing accuracy by 13%.
+- Authored internal research documentation and contributed to model reproducibility and automation pipelines for ML experiments.
 
 ## Education
 
 ### <span>Master of Science in Computer Science, Georgia Institute of Technology </span> <span>May 2025</span>
-  - Specialization in Computational Perception and Robotics
-  - Coursework in NLP, deep learning, and reinforcement learning
 
-
+Coursework: Machine Learning, Computer Vision, Advanced Software Development, Networking
 
 ### <span>Bachelor of Science in Computer Engineering, University of Central Florida</span> <span>May 2021</span>
-  - Minor in Intelligent Robotic Systems
-  - Robotics Team, Computer Vision Engineer
-  - Competitive Programming Team, Programmer
+
+Coursework: Object Oriented Programming, Software Development, Web Applications, Embedded Systems
+
+
 ## Projects
 
 ### <span>Personal Project | BDLC Actuator</span> <span>2024</span>
-Developed a robotic actuator with Field-Oriented Control (FOC) for precise position, velocity, and torque regulation via a CAN interface.
-
+Developed a robotic actuator with Field-Oriented Control (FOC) enabling precise position, velocity, and torque regulation via CAN interface.
 
 ### <span>Swamphacks | Skin Disease Diagnosing Mobile App</span> <span>2020</span>
-A computer vision app that detects skin disease via a convolutional neural network
+Created a computer vision mobile app using CNNs to detect skin disease from photos, deployed via Flask backend and GCP. It was awarded Most Technically Impressive by the judges.
 
-  - **Award**, Most Technically Impressive
-  - **Technology**, Convolutional Neural Network, OpenCV, Pillow, Native Android, Flask, and GCP
-
-## Skills
-- **Machine Learning & AI**: CNNs, RNNs, LSTMs, Reinforcement Learning, GANs, NLP
- - **Certifications** Coursera: Deep Learning Specialization, CIW: JavaScript Specialist
- - **Languages** Python, C#, TypeScript, JavaScript, Java, C++, SQL
- - **Frameworks** .Net, ASP.NET, Entity Framework, React, TensorFlow, PyTorch, OpenCV
- - **Technology** Docker, DevOps, CI/CD, SQL, GnuRadio
+## Technical Skills
+ - **Languages** C#, Python, TypeScript, JavaScript, Java, C++, SQL
+ - **Frameworks** React, .NET, ASP.NET Core, Node.js, Express, Flask, Django, TensorFlow, PyTorch, OpenCV
+ - **Databases** PostgreSQL, MariaDB, MongoDB, SQLite
+ - **Cloud & DevOps** AWS, Azure, Docker, Bitbucket Pipelines, CI/CD, Linux
+ - **Tools & Technologies** Git, REST APIs, SignalR, Entity Framework, GnuRadio, Agile/Scrum, Jira
+ - **Concepts** Object-Oriented Programming (OOP), Design Patterns, Microservices, Software Architecture, Testing, API Integration, Machine Learning
 
