@@ -37,7 +37,7 @@ hand -->
 
 ### <span>Master of Science in Computer Science, Georgia Institute of Technology </span> <span>May 2025</span>
   - Specialization in Computational Perception and Robotics
-  - Coursework in Robotics Algorithm, Computer Vision, NLP, Deep Learning, and Reinforcement Learning
+  - Coursework in Robotic Algorithms, Computer Vision, Advanced Software Design, Deep Learning, and Reinforcement Learning
 
 
 ### <span>Bachelor of Science in Computer Engineering, University of Central Florida</span> <span>May 2021</span>
