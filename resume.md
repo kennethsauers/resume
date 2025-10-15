@@ -37,8 +37,7 @@ hand -->
 
 ### <span>Master of Science in Computer Science, Georgia Institute of Technology </span> <span>May 2025</span>
   - Specialization in Computational Perception and Robotics
-  - Coursework in NLP, deep learning, and reinforcement learning
-
+  - Coursework in Robotics Algorithm, Computer Vision, NLP, Deep Learning, and Reinforcement Learning
 
 
 ### <span>Bachelor of Science in Computer Engineering, University of Central Florida</span> <span>May 2021</span>
@@ -61,6 +60,6 @@ A computer vision app that detects skin disease via a convolutional neural netwo
 - **Machine Learning & AI**: CNNs, RNNs, LSTMs, Reinforcement Learning, GANs, NLP
  - **Certifications** Coursera: Deep Learning Specialization, CIW: JavaScript Specialist
  - **Languages** Python, C#, TypeScript, JavaScript, Java, C++, SQL
- - **Frameworks** .Net, ASP.NET, Entity Framework, React, TensorFlow, PyTorch, OpenCV
+ - **Frameworks** .Net, ASP.NET, Entity Framework, React, ROS, TensorFlow, PyTorch, OpenCV
  - **Technology** Docker, DevOps, CI/CD, SQL, GnuRadio
 
