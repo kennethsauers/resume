@@ -37,7 +37,7 @@ hand -->
 
 ### <span>Master of Science in Computer Science, Georgia Institute of Technology </span> <span>May 2025</span>
   - Specialization in Computational Perception and Robotics
-  - Coursework in Robotic Algorithms, Computer Vision, Advanced Software Design, Deep Learning, and Reinforcement Learning
+  - Coursework in Robotic Algorithms, Computer Vision, Advanced Software Design, and Deep Learning
 
 
 ### <span>Bachelor of Science in Computer Engineering, University of Central Florida</span> <span>May 2021</span>
@@ -46,7 +46,7 @@ hand -->
   - Competitive Programming Team, Programmer
 ## Projects
 
-### <span>Personal Project | BDLC Actuator</span> <span>2024</span>
+### <span>Personal Project | BLDC Actuator</span> <span>2024</span>
 Developed a robotic actuator with Field-Oriented Control (FOC) for precise position, velocity, and torque regulation via a CAN interface.
 
 
